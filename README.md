@@ -1,3 +1,3 @@
 ## 📄 Portfolio
 
-[![Portfolio Preview](./frame408.png)]
+[![Portfolio Preview](./Frame 408.png)]
